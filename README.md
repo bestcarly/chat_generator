@@ -39,7 +39,7 @@ chat_generator/
 
 1. 克隆项目：
 ```bash
-git clone https://github.com/yourusername/chat-generator.git
+git clone https://github.com/bestcarly/chat_generator
 cd chat-generator
 ```
 
